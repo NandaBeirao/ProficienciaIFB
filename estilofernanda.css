@@ -108,7 +108,7 @@ button {
 }
 
 #domiciliar {
-    flex-direction: row-reverse;
+    flex-direction: row;
 }
 
 #clinica img,
